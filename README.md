@@ -83,13 +83,12 @@ Skuteczna blokada ataku przez system walidacji:
   <img src="zablokowanieatakusql.png" alt="Zablokowanie ataku przez system" width="800">
 </kbd>
 
-### 4. Logowanie i monitoring zdarzeń
-Serwer aplikacji rejestruje każde zapytanie modyfikujące dane oraz błędy walidacji w czasie rzeczywistym, co pozwala na pełną rozliczalność i audyt zdarzeń w locie.
+### 4. System ewidencji zapytań B2B ("Wyjazdy dla firm")
+Dedykowany panel administracyjny prezentujący zestawienie spływających zapytań ofertowych od klientów biznesowych i grup zorganizowanych. Tabela dynamicznie agreguje w czasie rzeczywistym kluczowe dane z bazy (nazwę firmy, cel wyjazdu, liczbę uczestników, budżet oraz status wiadomości).
 
 <kbd>
-  <img src="logserwera.png" alt="Logi serwera potwierdzające poprawne odebranie danych" width="800">
+  <img src="wyjazdydlafirm.png" alt="Panel ewidencji zapytań biznesowych" width="800">
 </kbd>
-
 ---
 
 ## Dokumentacja projektowa
