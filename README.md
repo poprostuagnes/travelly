@@ -1,4 +1,4 @@
-# Travelly - Nowoczesna aplikacja webowa biura podróży z audytem bezpieczeństwa
+# Travelly - aplikacja webowa biura podróży z audytem bezpieczeństwa
 
 ## Opis projektu
 **Travelly** to aplikacja internetowa dedykowana dla sektora turystycznego, automatyzująca proces wyszukiwania, prezentacji oraz interakcji klientów z ofertami biura podróży. System oferuje w pełni responsywny, nowoczesny interfejs użytkownika zintegrowany z bezpieczną warstwą backendową, systemem autoryzacji oraz modułami ocen w czasie rzeczywistym
@@ -34,7 +34,7 @@ Możliwość dodawania autoryzowanych opinii i ocen (w skali 1-10) przez użytko
 Dedykowany widok dla zalogowanych użytkowników serwisu, pozwalający na przechowywanie oraz szybki dostęp do wybranych, polubionych wcześniej ofert.
 
 <kbd>
-  <img src="ulubione.jpg" alt="Panel Moje ulubione wycieczki" width="800">
+  <img src="ulubione.png" alt="Panel Moje ulubione wycieczki" width="800">
 </kbd>
 
 ### 4. Formularz dla klientów biznesowych ("Wyjazdy dla firm")
@@ -92,7 +92,7 @@ Serwer aplikacji rejestruje każde zapytanie modyfikujące dane oraz błędy wal
 
 ---
 
-## dokumentacja projektowa
+## Dokumentacja projektowa
 W repozytorium (oprócz kodu źródłowego aplikacji) znajdują się szczegółowe sprawozdania techniczne:
 * `SPRAWOZDANIE_PROJEKT_AI_SLAPINSKA_STANEK_SZCZUPAK.pdf` — Kompletna specyfikacja architektury aplikacji internetowej, opis frameworka Django, struktury Bootstrap oraz opis implementacji frontend/backend
 * `bezpieczenstwo_i_ochrona_danych (1).pdf` — Pełen raport z testów penetracyjnych aplikacji, zawierający macierze analizy ryzyka (szacowanie ryzyka pierwotnego i szczątkowego) oraz dowody poprawności wdrożonych zabezpieczeń.
